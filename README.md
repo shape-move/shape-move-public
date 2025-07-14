@@ -17,7 +17,7 @@
 [Jia-Bin Huang](https://jbhuang0604.github.io/)<sup>1</sup>
 [Uttaran Bhattacharya](https://uttaranb127.github.io)<sup>2</sup>
 
-<sup>1</sup>Adobe Research, <sup>2</sup>University of Maryland College Park
+<sup>1</sup>University of Maryland College Park, <sup>2</sup>Adobe Research
 </div>
 
   <div align="center">
