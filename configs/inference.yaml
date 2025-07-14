@@ -1,0 +1,30 @@
+name: demo
+output_dir: outputs
+seed: 1234
+stamp: 
+save_img: False
+save_motion: False
+prompt_path: data/sample_prompt.json
+resume_path: pretrain_model/shapemove.ckpt
+
+motion_model:
+  type: model.engine.model.MotionVAE
+  output_emb_width: 512
+  down_t: 2
+  stride_t: 2
+  width: 512 
+  depth: 3
+  dilation_growth_rate: 3
+  quantizer:
+    type: 'fsq'
+    nb_code: 1000
+    code_dim: 512
+    levels: [8, 5, 5, 5]
+    dim: 
+
+model:
+  type: model.engine.mlp_shape_motion_token.Latent_Token_predictor
+  model_type: t5
+  model_path: model/engine/flan-t5-base
+  motion_codebook_size: ${motion_model.quantizer.nb_code}
+  label: False

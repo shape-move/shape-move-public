@@ -1,0 +1,58 @@
+gdown
+tensorboard
+pytorch_lightning
+torchmetrics
+omegaconf
+shortuuid
+chumpy
+transformers
+# diffusers
+einops
+wandb
+rich
+matplotlib
+numpy==1.23.5
+
+
+# yacs==0.1.8
+# nflows==0.14
+# open3d
+# jpeg4py==0.1.4
+# fvcore
+# kornia==0.4.1
+# streamlit==1.23.1
+# loguru
+# attrdict==2.0.1
+# hydra-core==1.1.1
+# scipy
+
+# tensorboardX
+# transforms3d
+# plyfile
+# peft
+# gradio
+
+# git+https://github.com/openai/CLIP.git
+
+# open-clip-torch
+# fire
+# xformers
+
+# for visualization
+smplx==0.1.28
+trimesh==3.9.24
+joblib==1.2.0
+h5py
+scikit-image
+spacy
+ftfy
+more-itertools
+natsort
+pyrender
+moviepy
+librosa
+triangle==20220202
+shapely
+opencv-python
+bert-score
+

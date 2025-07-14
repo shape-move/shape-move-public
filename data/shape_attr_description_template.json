@@ -1,0 +1,21 @@
+{
+"1": "A <gender> standing <height> cm tall, with a chest circumference of <chest> cm, waist circumference of <waist> cm, and hip circumference of <hip> cm. The length of the arm is <arm> cm and leg height is <leg> cm.",
+
+"2": "This individual, a <gender>, has a height of <height> cm. Their body measurements include a chest of <chest> cm, a waist of <waist> cm, and hips measuring <hip> cm. The arm extends <arm> cm and the legs are <leg> cm long.",
+
+"3": "The <gender> stands <height> cm tall. They have a chest circumference of <chest> cm, a waist of <waist> cm, and hips that measure <hip> cm. The arm and leg measurements are <arm> cm and <leg> cm, respectively.",
+
+"4": "Describing the <gender>: They are <height> cm in height, with body measurements that include a chest of <chest> cm, a waist of <waist> cm, and hips of <hip> cm. Additionally, their arm measures <arm> cm, and their leg height is <leg> cm.",
+
+"5": "Here is a <gender> with a height of <height> cm. Their measurements are as follows: chest <chest> cm, waist <waist> cm, and hips <hip> cm. The lengths of the arm and legs are <arm> cm and <leg> cm respectively.",
+
+"6": "You see a <gender> whose physical stature includes a height of <height> cm. Notable measurements are a chest circumference of <chest> cm, waist circumference of <waist> cm, and hip circumference of <hip> cm, with a arm length of <arm> cm and leg height of <leg> cm.",
+
+"7": "A <gender> with these dimensions: <height> cm tall, chest <chest> cm, waist <waist> cm, hips <hip> cm, arm <arm> cm, and leg height <leg> cm.",
+
+"8": "Consider a <gender> who is <height> cm tall. They have a chest of <chest> cm, waist of <waist> cm, and hips of <hip> cm. Their arm is <arm> cm long, and their legs measure <leg> cm in height.",
+
+"9": "Profile of a <gender>: Height of <height> cm, with a chest measurement of <chest> cm, waist of <waist> cm, and hips spanning <hip> cm. The arm and leg heights are <arm> cm and <leg> cm, respectively.",
+
+"10": "A detailed look at a <gender>: They stand <height> cm tall, and feature a chest of <chest> cm, a waist of <waist> cm, and hips measuring <hip> cm. Their arm length is <arm> cm, and the leg height is <leg> cm."
+}

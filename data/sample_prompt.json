@@ -1,0 +1,10 @@
+{
+    "1":{
+        "shape": "Here is a male with a height of 196 cm. Their measurements are as follows: chest 114 cm, waist 101 cm, and hips 105 cm. The lengths of the arm and legs are 61 cm and 83 cm respectively.", 
+        "motion": "a person walks forward then turns completely around and does a cartwheel."
+    },
+    "2":{
+        "shape": "Profile of a male: Height of 185 cm, with a chest measurement of 100 cm, waist of 87 cm, and hips spanning 94 cm. The arm and leg heights are 55 cm and 74 cm, respectively.", 
+        "motion": "a person jogs forward and semi circles around to the right and then to the left."
+    }
+}
