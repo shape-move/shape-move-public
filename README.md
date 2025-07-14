@@ -10,12 +10,12 @@
 
 
 [Ting-Hsuan Liao](https://tinghliao.github.io/)<sup>1,2</sup>
-[Yi Zhou](https://zhouyisjtu.github.io/)<sup>1</sup>
-[Yu Shen](https://research.adobe.com/person/yu-shen/)<sup>1</sup>
-[Chun-Hao Paul Huang](https://research.adobe.com/person/paulchhuang/)<sup>1</sup>
-[Saayan Mitra](https://research.adobe.com/person/saayan-mitra/)<sup>1</sup>
-[Jia-Bin Huang](https://jbhuang0604.github.io/)<sup>2</sup>
-[Uttaran Bhattacharya](https://uttaranb127.github.io)<sup>1</sup>
+[Yi Zhou](https://zhouyisjtu.github.io/)<sup>2</sup>
+[Yu Shen](https://research.adobe.com/person/yu-shen/)<sup>2</sup>
+[Chun-Hao Paul Huang](https://research.adobe.com/person/paulchhuang/)<sup>2</sup>
+[Saayan Mitra](https://research.adobe.com/person/saayan-mitra/)<sup>2</sup>
+[Jia-Bin Huang](https://jbhuang0604.github.io/)<sup>1</sup>
+[Uttaran Bhattacharya](https://uttaranb127.github.io)<sup>2</sup>
 
 <sup>1</sup>Adobe Research, <sup>2</sup>University of Maryland College Park
 </div>
@@ -79,11 +79,12 @@ python utils/visualization.py --dir [path/to/mesh/folder]
 
 ## Citation
 ```bibtex
-@article{shapemove,
-    author    = {Liao, Ting-Hsuan and Zhou, Yi and Shen, Yu and Huang, Chun-Hao Paul and Mitra, Saayan and Huang, Jia-Bin and Bhattacharya, Uttaran},
-    title     = {Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions},
-    journal   = {arXiv preprint arXiv:2504.03639},
-    year      = {2025},
+@inproceedings{shapemove,
+  title={Shape my moves: Text-driven shape-aware synthesis of human motions},
+  author={Liao, Ting-Hsuan and Zhou, Yi and Shen, Yu and Huang, Chun-Hao Paul and Mitra, Saayan and Huang, Jia-Bin and Bhattacharya, Uttaran},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={1917--1928},
+  year={2025}
 }
 ```
 
