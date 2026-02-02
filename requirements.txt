@@ -5,7 +5,7 @@ torchmetrics
 omegaconf
 shortuuid
 chumpy
-transformers
+transformers==4.57.0
 # diffusers
 einops
 wandb
